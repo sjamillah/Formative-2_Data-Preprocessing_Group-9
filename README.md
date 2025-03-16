@@ -38,7 +38,7 @@ This project focuses on preprocessing and augmenting a customer transactions dat
 
 
 ## Contributors
-- **Abubakar Ahmed** 
+- **Abubakar Ahmed Umar** 
 - **Peris Nyawira Wangui**
 - **Jamillah Ssozi**
 
